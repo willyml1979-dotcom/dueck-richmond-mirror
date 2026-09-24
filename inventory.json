@@ -1,0 +1,167 @@
+{
+  "dealership": "Dueck Richmond",
+  "generated_at": "2026-09-24T15:41:51",
+  "vehicle_count": 14,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2022CadillacEscaladeSport Platinum",
+      "vin": "1GYS4GKLXNR357311",
+      "stock": "77948A",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/a98b717d140a.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2022-cadillac-escalade-sport-platinum-Nb9HJuLaSW21IdbjE9n69Qvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2022-cadillac-escalade-sport-platinum-Nb9HJuLaSW21IdbjE9n69Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:26:50",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023GMCYukon XLSLT",
+      "vin": "1GKS2GKDXPR167116",
+      "stock": "77932A",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/d6e81df7f7a5.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2023-gmc-yukon-xl-slt-8yRLtBhqTGyha5axIi0zBwvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2023-gmc-yukon-xl-slt-8yRLtBhqTGyha5axIi0zBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:27:01",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024ChevroletCorvette1LT",
+      "vin": "1G1YA3D42R5104268",
+      "stock": "77883A",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/a59bbdde0846.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2024-chevrolet-corvette-1lt-blB2qK4BSdWJibb9LgwYCgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2024-chevrolet-corvette-1lt-blB2qK4BSdWJibb9LgwYCgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:27:12",
+      "price": 81983.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024Ram3500Tradesman",
+      "vin": "3C63R3GL0RG208867",
+      "stock": "77950A",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/f806891d8386.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2024-ram-3500-tradesman-8l8zXcVkQsqHOB4pYgCzVgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2024-ram-3500-tradesman-8l8zXcVkQsqHOB4pYgCzVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:27:22",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordF-150 LightningLARIAT",
+      "vin": "1FT6W5L70SWG20071",
+      "stock": "77897A",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/2cc74f4eaebc.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2025-ford-f-150-lightning-lariat-M8VmyUjVQOW7sdpkq91HJAvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2025-ford-f-150-lightning-lariat-M8VmyUjVQOW7sdpkq91HJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:27:33",
+      "price": 83064.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025GMCSierra 1500Denali Ultimate",
+      "vin": "1GTUUHE85SZ268351",
+      "stock": "77799A",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/f80f9ffe7119.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2025-gmc-sierra-1500-denali-ultimate-eSb1Px7CRe206vOvXL9uDQvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2025-gmc-sierra-1500-denali-ultimate-eSb1Px7CRe206vOvXL9uDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:27:44",
+      "price": 91185.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026ChevroletBlazer EVAWD RS",
+      "vin": "3GNKD1RJXTS118544",
+      "stock": "77951A",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/cd87cfe04e9c.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-blazer-ev-awd-rs-jmPhnuo1RtaTdbSjYv1DGwvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-blazer-ev-awd-rs-jmPhnuo1RtaTdbSjYv1DGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:27:55",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026ChevroletColorado4WD ZR2",
+      "vin": "1GCPTFEK6T1254328",
+      "stock": "77906A",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/701dcacc8686.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-colorado-4wd-zr2-fdmn03X2TUmbTc0q4Zsiywvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-colorado-4wd-zr2-fdmn03X2TUmbTc0q4Zsiywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:28:05",
+      "price": 61888.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026ChevroletEquinox EVRS",
+      "vin": "3GN7DSRR9TS144991",
+      "stock": "77946A",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/c93a6d12f070.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-equinox-ev-rs-m8hqZRpMTIqiGgTEanhQPgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-equinox-ev-rs-m8hqZRpMTIqiGgTEanhQPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:28:14",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026GMCYukonDenali",
+      "vin": "1GKS2DKL5TR116946",
+      "stock": "77862A",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/c47225b0343a.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-denali-XmKQHATuT4CZ1Jq3gYa0nwvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-denali-XmKQHATuT4CZ1Jq3gYa0nwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:28:27",
+      "price": 106722.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2027FordTransit Passenger WagonXLT",
+      "vin": "1FBAX2XG6VKA07338",
+      "stock": "77952A",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/852e3518423c.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2027-ford-transit-passenger-wagon-xlt-f1EUoOa6R0CBDVK5aZG4Wwvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2027-ford-transit-passenger-wagon-xlt-f1EUoOa6R0CBDVK5aZG4Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:28:39",
+      "condition": "used"
+    },
+    {
+      "name": "181 Used Vehicles for sale in Richmond, BC",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/857f60f1177d.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/?condition=USED&inStock=TRUE",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/?condition=USED&inStock=TRUE&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:28:50",
+      "price": 106722.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "22 Used Vehicles for sale in Richmond, BC",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/990d243b6853.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/?condition=USED&paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/?condition=USED&paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:28:59",
+      "price": 19997.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "35 Used Vehicles for sale in Richmond, BC",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/835109cee91c.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/?condition=USED&paymentRange%5Bgte%5D=20000&paymentRange%5Blte%5D=30000&paymentOption=CASH",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/?condition=USED&paymentRange%5Bgte%5D=20000&paymentRange%5Blte%5D=30000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T02:29:10",
+      "price": 28999.0,
+      "price_currency": "CAD",
+      "odometer_km": 50490,
+      "condition": "used"
+    }
+  ]
+}

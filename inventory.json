@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Richmond",
-  "generated_at": "2026-09-25T03:03:48",
-  "vehicle_count": 11,
+  "generated_at": "2026-10-08T14:36:40",
+  "vehicle_count": 22,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -14,7 +14,9 @@
       "source_url": "https://www.dueckrichmond.com/inventory/2022-cadillac-escalade-sport-platinum-Nb9HJuLaSW21IdbjE9n69Qvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2022-cadillac-escalade-sport-platinum-Nb9HJuLaSW21IdbjE9n69Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:02:04",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2023GMCYukon XLSLT",
@@ -24,7 +26,9 @@
       "source_url": "https://www.dueckrichmond.com/inventory/2023-gmc-yukon-xl-slt-8yRLtBhqTGyha5axIi0zBwvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2023-gmc-yukon-xl-slt-8yRLtBhqTGyha5axIi0zBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:27:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2024ChevroletCorvette1LT",
@@ -37,7 +41,9 @@
       "last_verified": "2026-09-24T02:27:12",
       "price": 81983.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2024ChevroletSilverado EVWork Truck",
@@ -48,7 +54,9 @@
       "source_url": "https://www.dueckrichmond.com/inventory/2024-chevrolet-silverado-ev-work-truck-os534r7IRqS5N9wruEE3yQvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2024-chevrolet-silverado-ev-work-truck-os534r7IRqS5N9wruEE3yQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:01:52",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2024Ram3500Tradesman",
@@ -58,7 +66,9 @@
       "source_url": "https://www.dueckrichmond.com/inventory/2024-ram-3500-tradesman-8l8zXcVkQsqHOB4pYgCzVgvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2024-ram-3500-tradesman-8l8zXcVkQsqHOB4pYgCzVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:02:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2025FordF-150 LightningLARIAT",
@@ -70,7 +80,9 @@
       "last_verified": "2026-09-25T03:02:47",
       "price": 83064.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2025GMCSierra 1500Denali Ultimate",
@@ -83,7 +95,9 @@
       "last_verified": "2026-09-25T03:02:58",
       "price": 91185.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2026ChevroletBlazer EVAWD RS",
@@ -94,7 +108,9 @@
       "source_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-blazer-ev-awd-rs-jmPhnuo1RtaTdbSjYv1DGwvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-blazer-ev-awd-rs-jmPhnuo1RtaTdbSjYv1DGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:27:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2026ChevroletColorado4WD ZR2",
@@ -106,7 +122,9 @@
       "last_verified": "2026-09-25T03:03:20",
       "price": 61888.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2026GMCYukonDenali",
@@ -119,7 +137,9 @@
       "last_verified": "2026-09-24T02:28:27",
       "price": 106722.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "Used2027FordTransit Passenger WagonXLT",
@@ -130,7 +150,163 @@
       "source_url": "https://www.dueckrichmond.com/inventory/2027-ford-transit-passenger-wagon-xlt-f1EUoOa6R0CBDVK5aZG4Wwvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2027-ford-transit-passenger-wagon-xlt-f1EUoOa6R0CBDVK5aZG4Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:03:42",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCHUMMER EV Pickup2X",
+      "vin": "1GT4EBDD1TU604696",
+      "stock": "26HU469",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/56fb5bf8bcd2.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-hummer-ev-pickup-2x-2Ut0mM1ZTdmaO9Ezj9dzMAvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-hummer-ev-pickup-2x-2Ut0mM1ZTdmaO9Ezj9dzMAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:05:04",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCHUMMER EV SUV2X",
+      "vin": "1GKTENDE4TU604685",
+      "stock": "26HU468",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/790de89431a4.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-hummer-ev-suv-2x-WCrjRshIS3iZbngZgPqgNgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-hummer-ev-suv-2x-WCrjRshIS3iZbngZgPqgNgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:05:17",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCSierra 3500HDAT4",
+      "vin": "1GT4UVEY8TF123337",
+      "stock": "26CK333",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/b5dd383bf8c1.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-at4-dX9d7m3lR82Kd4dnKFELYwvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-at4-dX9d7m3lR82Kd4dnKFELYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:05:30",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCSierra 3500HDDenali",
+      "vin": "1GT4UWEY3TF342194",
+      "stock": "26CK219",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/8224821b2d11.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-denali-WjXlsSNESnm6vdji90m5WQvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-denali-WjXlsSNESnm6vdji90m5WQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:05:42",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCSierra 3500HDDenali",
+      "vin": "1GT4UWEY5TF365198",
+      "stock": "26CK519",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/aa8aea13615a.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-denali-gJtNtUDXQzqUkWMpvxHDgAvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-denali-gJtNtUDXQzqUkWMpvxHDgAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:05:55",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCSierra 3500HDDenali",
+      "vin": "1GT4UWEY2TF181109",
+      "stock": "26CK110",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/97b7d126f4bb.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-denali-lEBYaiecTkyJ6y87rBPxpgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-sierra-3500hd-denali-lEBYaiecTkyJ6y87rBPxpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:06:05",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCYukonAT4 Ultimate",
+      "vin": "1GKS2VKLXTR465977",
+      "stock": "26YU597",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/82bcbaea6c33.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-at4-ultimate-jPF2WF6uRSy9QEgLxHfX0Avdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-at4-ultimate-jPF2WF6uRSy9QEgLxHfX0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:06:16",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCYukonAT4",
+      "vin": "1GKS2CKL9TR334348",
+      "stock": "26YU434",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/dc4c8e60bbfd.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-at4-vCaIBQQsQ6O0uJkEQoALWgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-at4-vCaIBQQsQ6O0uJkEQoALWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:06:26",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCYukonDenali",
+      "vin": "1GKS2DKL0TR348936",
+      "stock": "26YU893",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/e73885864f02.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-denali-79p0crlXQIGgYAcuPFpjWgvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-denali-79p0crlXQIGgYAcuPFpjWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:06:38",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCYukonDenali",
+      "vin": "1GKS2DKL7TR443073",
+      "stock": "26YU307",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/5bbfe6ba0ffc.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-denali-QPGoMbyIT5uvabOGK43TcQvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-gmc-yukon-denali-QPGoMbyIT5uvabOGK43TcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:06:48",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2027ChevroletCorvette3LT",
+      "vin": "1G1YV3D56V5301306",
+      "stock": "27CV130",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/94d401914e0b.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2027-chevrolet-corvette-3lt-8DL4CGrmSYa7xCGzf99eYAvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2027-chevrolet-corvette-3lt-8DL4CGrmSYa7xCGzf99eYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:07:00",
+      "odometer_km": 24000,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Richmond",
-  "generated_at": "2026-10-10T00:49:37",
-  "vehicle_count": 27,
+  "generated_at": "2026-10-11T01:53:03",
+  "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -41,7 +41,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/a98b717d140a.html",
       "source_url": "https://www.dueckrichmond.com/inventory/2022-cadillac-escalade-sport-platinum-Nb9HJuLaSW21IdbjE9n69Qvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2022-cadillac-escalade-sport-platinum-Nb9HJuLaSW21IdbjE9n69Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T00:48:02",
+      "last_verified": "2026-10-11T01:51:26",
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -54,7 +54,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/used/d6e81df7f7a5.html",
       "source_url": "https://www.dueckrichmond.com/inventory/2023-gmc-yukon-xl-slt-8yRLtBhqTGyha5axIi0zBwvdp",
       "dealer_url": "https://www.dueckrichmond.com/inventory/2023-gmc-yukon-xl-slt-8yRLtBhqTGyha5axIi0zBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T00:10:24",
+      "last_verified": "2026-10-11T01:51:35",
       "price": 71999.0,
       "price_currency": "CAD",
       "condition": "used",
@@ -197,6 +197,22 @@
       "dealer_url": "https://www.dueckrichmond.com/inventory/2027-ford-transit-passenger-wagon-xlt-f1EUoOa6R0CBDVK5aZG4Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:03:42",
       "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New2026ChevroletSilverado 3500HDHigh Country",
+      "vin": "1GC4KVEY6TF184336",
+      "stock": "26SI433",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dueck-richmond-mirror/new/5f9511ad498d.html",
+      "source_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-silverado-3500hd-high-country-1ZFQc8QYSpCrufVdE7fwXAvdp",
+      "dealer_url": "https://www.dueckrichmond.com/inventory/2026-chevrolet-silverado-3500hd-high-country-1ZFQc8QYSpCrufVdE7fwXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T00:52:25",
+      "price": 114951.0,
+      "price_currency": "CAD",
+      "odometer_km": 24000,
+      "condition": "new",
       "city": "Richmond",
       "province": "BC"
     },
